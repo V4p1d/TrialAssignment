@@ -1,0 +1,1 @@
+# Write a function that takes two inputs and returns only one of them
